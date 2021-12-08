@@ -41,6 +41,12 @@ Una vez terminado el diseño y la limpieza de datos, se realizó la creación de
 
 ### Planteamiento de preguntas ❓
 
-Plantear 5-10 preguntas que se puedan contestar sobre la base de datos
+Haciendo uso de los datos que se poseen, responder las siguientes preguntas:
+
+- ¿Cuáles son los 5 juegos mas vendidos?
+- ¿Cuáles son los 5 juegos menos vendidos?
+- ¿De qué consolas son los 5 juegos mas vendidos?
+- ¿De qué consolas son los 5 juegos menos vendidos?
+- ¿Qué juegos vendieron menos de medio millón de copias?
 
 ### Conclusión
