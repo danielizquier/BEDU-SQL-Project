@@ -1,4 +1,5 @@
-# Venta de videojuegos en  🎮
+# Venta de videojuegos en volumen 🎮
+
 
 ### Descripción 📋
 
@@ -10,7 +11,7 @@ La historia de los videojuegos tiene su origen en la década de 1950 cuando, tra
 
 Con esta información se pretende analizar el impacto económico que han tenido las consolas y los videojuegos a lo largo de 37 años (1983 - 2017).
 
-### Diseño 🛠️
+### Diseño y Creación 🛠️
 
 Para este proyecto se tomaron en cuenta los datos compartidos de los siguientes repositorios:
 - [Dataset Consolas](https://www.kaggle.com/jaimepazlopes/game-console-manufactor-and-sales/version/4)
@@ -32,10 +33,14 @@ Una vez tomada la decisión, se limpiaron los datos de tal forma que tanto el fo
 
 Después, se procedió a realizar el diseño de la DB con la ayuda de la herramienta MySQL Workbench dando como resultado el siguiente diagrama entidad - relación.
 
-![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/Videogames%20Sales.png)
 
-Una vez terminado el diseño y la limpieza de datos, se realizó la creación de la DB en el servidor creado anteriormente en la sesión 4.
+
+Una vez terminado el diseño y la limpieza de datos, se realizó la creación de la DB en el servidor creado anteriormente en la sesión 4. 
+
+![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/Schemas.PNG)
+
+### Planteamiento de preguntas ❓
 
 Plantear 5-10 preguntas que se puedan contestar sobre la base de datos
 
-Conclusión
+### Conclusión
