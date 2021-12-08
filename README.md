@@ -49,4 +49,6 @@ Haciendo uso de los datos que se poseen, responder las siguientes preguntas:
 - ¿De qué consolas son los 5 juegos menos vendidos?
 - ¿Qué juegos vendieron menos de medio millón de copias?
 
+Presentación: definición, carga de datos y consulta.
+
 ### Conclusión
