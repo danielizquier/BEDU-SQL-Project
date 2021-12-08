@@ -33,7 +33,7 @@ Una vez tomada la decisión, se limpiaron los datos de tal forma que tanto el fo
 
 Después, se procedió a realizar el diseño de la DB con la ayuda de la herramienta MySQL Workbench dando como resultado el siguiente diagrama entidad - relación.
 
-![](![Videogames Sales](https://user-images.githubusercontent.com/91280410/145262287-99f4d24b-8fb1-435a-9904-74f620e4b266.png)
+![Videogames Sales](https://user-images.githubusercontent.com/91280410/145262287-99f4d24b-8fb1-435a-9904-74f620e4b266.png)
 
 Una vez terminado el diseño y la limpieza de datos, se realizó la creación de la DB en el servidor creado anteriormente en la sesión 4. 
 
