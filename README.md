@@ -33,21 +33,28 @@ Una vez tomada la decisión, se limpiaron los datos de tal forma que tanto el fo
 
 Después, se procedió a realizar el diseño de la DB con la ayuda de la herramienta MySQL Workbench dando como resultado el siguiente diagrama entidad - relación.
 
-![Videogames Sales](https://user-images.githubusercontent.com/91280410/145262287-99f4d24b-8fb1-435a-9904-74f620e4b266.png)
+![Videogames Sales](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/VideogamesSales_EntidadRelacion.png)
 
 Una vez terminado el diseño y la limpieza de datos, se realizó la creación de la DB en el servidor creado anteriormente en la sesión 4. 
 
 ![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/Schemas.PNG)
 
+Una vez creadas las tablas, se procedió con la carga de datos. En este punto cabe mencionar que surgieron errores, los cuales ayudaron a corregir discrepancias en el planteamiento inicial del diseño de la DB al igual que la estructura y limpieza de los datos. 
+
+![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/LoadingData.PNG)
+
+Finalmente se corroboró que los datos se hubieran cargado correctamente haciendo un conteo de los renglones insertados. 
+
 ### Planteamiento de preguntas ❓
 
-Haciendo uso de los datos que se poseen, responder las siguientes preguntas:
+Con la ayuda de la DB creada, se requiren responder las siguientes preguntas:
 
 - ¿Cuáles son los 5 juegos mas vendidos?
 - ¿Cuáles son los 5 juegos menos vendidos?
 - ¿De qué consolas son los 5 juegos mas vendidos?
 - ¿De qué consolas son los 5 juegos menos vendidos?
 - ¿Qué juegos vendieron menos de medio millón de copias?
+- ¿Qué juegos fueron lanzados el mismo año en que se lanzó la consola PS2?
 
 Presentación: definición, carga de datos y consulta.
 
