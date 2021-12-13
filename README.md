@@ -25,7 +25,7 @@ Se decidió hacer uso de una **_Base de Datos Relacional_** principalmente por 3
 
 - Experiencia propia en dicho tipo de DB.
 - La naturaleza de los datos, ya que la información se obtuvo de forma independiente entre sí.
-- El enfoque que se le quiere dar, esto debido a que se pretende aplicar los conocimientos adquiridos en el proyecto con el cual que se colabora con Accenture, en donde actualmente ya se trabaja con el tipo de DB antes mencionada.
+- El enfoque que se le quiere dar, esto debido a que se pretende aplicar los conocimientos adquiridos en el proyecto con el cual se colabora con Accenture, en donde actualmente ya se trabaja con el tipo de DB antes mencionada.
 
 Una vez tomada la decisión, se limpiaron los datos de tal forma que tanto el formato como la presentación de dichos datos fuera estructurada, entendible y se pudiera relacionar facilmente.
 
