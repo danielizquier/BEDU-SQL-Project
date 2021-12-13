@@ -56,6 +56,4 @@ Con la ayuda de la DB creada, se requiren responder las siguientes preguntas:
 - ¿Qué juegos vendieron menos de medio millón de copias?
 - ¿Qué juegos fueron lanzados el mismo año en que se lanzó la consola PS2?
 
-Presentación: definición, carga de datos y consulta.
-
 ### Conclusión
