@@ -43,7 +43,9 @@ Una vez creadas las tablas, se procedió con la carga de datos. En este punto ca
 
 ![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/LoadingData.PNG)
 
-Finalmente se corroboró que los datos se hubieran cargado correctamente haciendo un conteo de los renglones insertados. 
+Finalmente se corroboró que los datos se cargaron correctamente haciendo un conteo de los renglones insertados. En este caso en particular, la carga de datos demoró demasiado por lo cual se optó por cargar un mínimo de al menos 500 registros.
+
+![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/count%20of%20sales.PNG)
 
 ### Planteamiento de preguntas ❓
 
