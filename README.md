@@ -52,10 +52,35 @@ Finalmente se corroboró que los datos se cargaron correctamente haciendo un con
 Con la ayuda de la DB creada, se requiren responder las siguientes preguntas:
 
 - ¿Cuáles son los 5 juegos mas vendidos?
+
+![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/P1.PNG)
+
 - ¿Cuáles son los 5 juegos menos vendidos?
+
+![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/P2.PNG)
+
 - ¿De qué consolas son los 5 juegos mas vendidos?
+
+![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/P3.PNG)
+
 - ¿De qué consolas son los 5 juegos menos vendidos?
-- ¿Qué juegos vendieron menos de medio millón de copias?
-- ¿Qué juegos fueron lanzados el mismo año en que se lanzó la consola PS2?
+
+![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/P4.PNG)
+
+- ¿Qué juegos vendieron menos de 5 millones de copias?
+
+![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/P5.PNG)
+
+- ¿Qué juegos de la consola PlayStation 3 son del género Sports?
+
+![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/P6.PNG)
+
+- ¿Cuál es la consola con mayor ventas de videojuegos en Japón y con qué cifra?
+
+![](https://github.com/danielizquier/BEDU-SQL-Project/blob/main/Pictures/p7.PNG)
+
 
 ### Conclusión
+**El conocimiento adquirido en este curso fue de gran valor, personalmente, las bases de datos son un tema que siempre había querido manejar sin embargo no había tenido la oportunidad. Debido a que actualmente me encuentro interactuando constantemente con DB, me comprometí a adquirir mas conocimientos para así poder aplicarlos a mi proyecto actual de Accenture y mejorar mi desempeño en los queries y manejo de estos. Me agradó la idea de crear un proyecto, ya que te obliga de cierta forma a meter las manos e inconscientemente hacer uso de las herramientas y recursos vistos a lo largo del curso.** 
+
+**Considero que ahora tengo un mejor entendimiento y un mejor manejo de la información, conozco conceptos que me eran desconocidos, y el mejor beneficio que percibo es la perspectiva con la que ahora veo la información antes de ejecutar una consulta en una DB.**
